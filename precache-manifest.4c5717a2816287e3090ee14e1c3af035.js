@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "284ac5754a40c30afa9126dbfc6d4bb6",
+    "revision": "680feac39177dc951bc2217f59867992",
     "url": "/digimaster/index.html"
   },
   {
-    "revision": "ca47275252866c543997",
+    "revision": "eaf17707bbae178eb3d8",
     "url": "/digimaster/static/css/main.11b3f069.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digimaster/static/js/2.3bc121a5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ca47275252866c543997",
-    "url": "/digimaster/static/js/main.844a4e9f.chunk.js"
+    "revision": "eaf17707bbae178eb3d8",
+    "url": "/digimaster/static/js/main.8df595de.chunk.js"
   },
   {
     "revision": "3ff0cccc3c6a241a0de5",
