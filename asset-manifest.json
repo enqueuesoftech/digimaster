@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/digimaster/static/css/main.11b3f069.chunk.css",
-    "main.js": "/digimaster/static/js/main.3fdb9d59.chunk.js",
-    "main.js.map": "/digimaster/static/js/main.3fdb9d59.chunk.js.map",
+    "main.js": "/digimaster/static/js/main.b79e1f0c.chunk.js",
+    "main.js.map": "/digimaster/static/js/main.b79e1f0c.chunk.js.map",
     "runtime-main.js": "/digimaster/static/js/runtime-main.c901b5b3.js",
     "runtime-main.js.map": "/digimaster/static/js/runtime-main.c901b5b3.js.map",
     "static/js/2.3bc121a5.chunk.js": "/digimaster/static/js/2.3bc121a5.chunk.js",
     "static/js/2.3bc121a5.chunk.js.map": "/digimaster/static/js/2.3bc121a5.chunk.js.map",
     "index.html": "/digimaster/index.html",
-    "precache-manifest.2a1ebf1fa6b639380272bb0598e9b13e.js": "/digimaster/precache-manifest.2a1ebf1fa6b639380272bb0598e9b13e.js",
+    "precache-manifest.724a2da2b03c83748cd7a09863f67af6.js": "/digimaster/precache-manifest.724a2da2b03c83748cd7a09863f67af6.js",
     "service-worker.js": "/digimaster/service-worker.js",
     "static/css/main.11b3f069.chunk.css.map": "/digimaster/static/css/main.11b3f069.chunk.css.map",
     "static/js/2.3bc121a5.chunk.js.LICENSE.txt": "/digimaster/static/js/2.3bc121a5.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.c901b5b3.js",
     "static/js/2.3bc121a5.chunk.js",
     "static/css/main.11b3f069.chunk.css",
-    "static/js/main.3fdb9d59.chunk.js"
+    "static/js/main.b79e1f0c.chunk.js"
   ]
 }
