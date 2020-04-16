@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/digimaster/static/css/main.11b3f069.chunk.css",
+    "main.js": "/digimaster/static/js/main.ef726885.chunk.js",
+    "main.js.map": "/digimaster/static/js/main.ef726885.chunk.js.map",
+    "runtime-main.js": "/digimaster/static/js/runtime-main.c901b5b3.js",
+    "runtime-main.js.map": "/digimaster/static/js/runtime-main.c901b5b3.js.map",
+    "static/js/2.3bc121a5.chunk.js": "/digimaster/static/js/2.3bc121a5.chunk.js",
+    "static/js/2.3bc121a5.chunk.js.map": "/digimaster/static/js/2.3bc121a5.chunk.js.map",
+    "index.html": "/digimaster/index.html",
+    "precache-manifest.5e8af140dc26e33bec223c9a55aeb649.js": "/digimaster/precache-manifest.5e8af140dc26e33bec223c9a55aeb649.js",
+    "service-worker.js": "/digimaster/service-worker.js",
+    "static/css/main.11b3f069.chunk.css.map": "/digimaster/static/css/main.11b3f069.chunk.css.map",
+    "static/js/2.3bc121a5.chunk.js.LICENSE.txt": "/digimaster/static/js/2.3bc121a5.chunk.js.LICENSE.txt",
+    "static/media/background.jpg": "/digimaster/static/media/background.63276065.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c901b5b3.js",
+    "static/js/2.3bc121a5.chunk.js",
+    "static/css/main.11b3f069.chunk.css",
+    "static/js/main.ef726885.chunk.js"
+  ]
+}
